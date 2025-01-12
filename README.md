@@ -1,4 +1,4 @@
-#Sample Superstore EDA Dashboard 
+# Sample Superstore EDA Dashboard 
 
 This is a Streamlit-powered dashboard for exploratory data analysis (EDA) of a sample Superstore dataset. The dashboard allows users to visualize and analyze sales data, apply filters, and explore various business insights in a user-friendly interface. 
 
