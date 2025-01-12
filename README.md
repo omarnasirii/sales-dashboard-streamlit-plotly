@@ -26,7 +26,7 @@ Install them using `pip`:
 
 pip install streamlit pandas plotly
 
-Usage
+## Usage
 1. Run the Streamlit App: Navigate to the directory containing the script and run the following command:
 
 streamlit run dashboard.py
@@ -39,14 +39,14 @@ streamlit run dashboard.py
 
 5. Download Data: You can download filtered datasets and visualizations directly from the app.
 
-Troubleshooting
+## Troubleshooting
 - Missing Columns: If the dataset doesn't contain required columns like Order Date, ensure the file is in the correct format.
 - Empty Dataset: If the dataset appears empty after filtering, try adjusting the filters or uploading a different file.
 
-Contributing
+## Contributing
 Feel free to fork this project and submit pull requests. For bug reports or new features, please open an issue in the GitHub repository.
 
-License
+## License
 This project is open-source and available under the MIT License.
 
 Thank you for using the Sample Superstore EDA Dashboard!
