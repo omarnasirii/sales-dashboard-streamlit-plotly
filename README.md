@@ -1,8 +1,8 @@
-Sample Superstore EDA Dashboard 
+#Sample Superstore EDA Dashboard 
 
 This is a Streamlit-powered dashboard for exploratory data analysis (EDA) of a sample Superstore dataset. The dashboard allows users to visualize and analyze sales data, apply filters, and explore various business insights in a user-friendly interface. 
 
-### Features ###
+## Features 
 
 - **File Upload**: Upload a CSV file or use the default `Superstore.csv` dataset.
 - **Date Range Filtering**: Filter data based on a date range for better analysis.
@@ -13,7 +13,7 @@ This is a Streamlit-powered dashboard for exploratory data analysis (EDA) of a s
 - **Download Options**: Download various filtered data and visualizations in CSV format.
 - **Scatter Plot**: Visualize the relationship between Sales, Profit, and Quantity.
 
-### Requirements ###
+## Requirements 
 
 To run this app, you need the following libraries:
 
